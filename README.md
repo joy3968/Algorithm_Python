@@ -14,3 +14,8 @@
 * 들어갈 적절한 위치를 찾아 위치를 잡습니다.
 * 시간복잡도 : O(N^2)
 ***
+### 4. 스택-stack
+![stack](https://user-images.githubusercontent.com/69666784/93707004-52a4f600-fb66-11ea-94df-0928c26736b3.GIF)
+* 선입 후출(first in last out) - 먼저 들어간 데이터가 마지막에 나온다.
+***
+
