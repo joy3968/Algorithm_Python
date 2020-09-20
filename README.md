@@ -19,3 +19,7 @@
 * 선입 후출(first in last out) - 먼저 들어간 데이터가 마지막에 나온다.
 ***
 
+### 5. 큐-queue
+![queue](https://user-images.githubusercontent.com/69666784/93707446-a82ed200-fb69-11ea-951c-c64a5c99fad5.GIF)
+* 선입 선출(first in first out) - 먼저 들어간 데이터가 먼저 나온다.
+***
