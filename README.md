@@ -1,5 +1,5 @@
 # Algorism_Python
-파이썬을 이용한 알고리즘 공부
+파이썬을 이용한 알고리즘 자료구조 공부
 
 ***
 ### 1. 선택정렬-selection_sort
